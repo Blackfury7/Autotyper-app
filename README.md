@@ -29,11 +29,11 @@ A Desktop Application for Windows for automating the typing.
 
 ## IMPROVEMENTS
 
-1. I am implementing a subscription model for this desktop application, similar to those used by Netflix and Amazon Prime, to enhance user experience.
+1. I am implementing a subscription model for this desktop application, similar to those used by Netflix and Amazon Prime, to enhance the user experience.
 
 
-2. I am currently working on a security patch for this application to ensure its safety and reliability.
+2. Currently, I am working on a security patch for this application to ensure its safety and reliability.
 
 
-3. In order to make the application more accessible to users, I am developing a website to complement the desktop version.
+3. To make the application more accessible to users, I am developing a website to complement the desktop version.
 
